@@ -1,0 +1,29 @@
+# Dependencias
+node_modules/
+
+# Archivos de configuración de ambiente
+cypress.env.json
+
+# Carpetas de reportes y resultados de Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# Archivos de logs
+npm-debug.log
+yarn-error.log
+
+# Directorios de cobertura
+coverage/
+.nyc_output/
+
+# Archivos de configuración de editores de código
+.vscode/
+.idea/
+*.swp
+*~.nib
+LocalHistory/
+
+# Otros archivos y carpetas que pueden ser específicos del sistema o del usuario
+.DS_Store
+Thumbs.db
